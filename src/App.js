@@ -21,7 +21,7 @@ function App() {
   };
 
   return (
-  <div>
+  <div style={{margin: '10px'}}>
       <h2>SQL Transposer</h2>
       <textarea
       rows="10"

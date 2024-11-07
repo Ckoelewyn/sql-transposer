@@ -1,3 +1,7 @@
+# SQL Transposer
+
+Just a simple toy to turn the ugly mess that `psql` gives into something that is readable. React chosen because I am using it for work, and practice helps.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
